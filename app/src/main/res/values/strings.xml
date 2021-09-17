@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Reminder</string>
+    <string name="deadline">Deadline</string>
+    <string name="task_name">Task Name</string>
+    <string name="account_name">Account_name</string>
+    <string name="password">Password</string>
+    <string name="log_out">Log out</string>
+    <string name="show_all_accounts">Show All Accounts</string>
+    <string name="add">Add</string>
+    <string name="log_out2">log_out</string>
+</resources>
